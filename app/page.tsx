@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Community from "../components/community";
 import Hero06 from "@/components/hero-06/hero-06";
 
