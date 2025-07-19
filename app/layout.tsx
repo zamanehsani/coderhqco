@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteName: "coderHQco",
     images: [
       {
-        url: "/vercel.svg",
+        url: "/coderhq_logo.png",
         width: 1200,
         height: 630,
         alt: "coderHQco Logo",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     description: "your digital partner for digital solutions.",
     site: "@coderhqco",
     creator: "@coderhqco",
-    images: ["/vercel.svg"],
+    images: ["/coderhq_logo.png"],
   },
   category: "technology",
   robots: "index, follow",
