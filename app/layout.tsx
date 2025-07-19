@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "coderHQco",
     description:
-      "your digital partner for web development, digital solutions and AI developement and agent.",
+      "your digital partner for digital solutions, web development and AI developement and agent.",
     url: "https://coderhq.co",
     siteName: "coderHQco",
     images: [
